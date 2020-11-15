@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\bin\Debug\Varijable vježba 4 (String).exe.config
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\bin\Debug\Varijable vježba 4 (String).exe
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\bin\Debug\Varijable vježba 4 (String).pdb
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\obj\Debug\Varijable vježba 4 (String).csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\obj\Debug\Varijable vježba 4 (String).csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\obj\Debug\Varijable vježba 4 (String).exe
+C:\Users\Mato\source\repos\Varijable vježba 4 (String)\Varijable vježba 4 (String)\obj\Debug\Varijable vježba 4 (String).pdb
